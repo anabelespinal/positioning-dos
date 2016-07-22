@@ -1,0 +1,21 @@
+/* Inserta tu CSS aqui */
+div {
+	position: absolute;
+}
+.red {
+	width: 400px;
+	height: 400px;
+	background-color: red;
+}
+.purple {
+	background-color: purple;
+	width: 200px;
+	height: 200px;
+	top: 100px;
+	left: 100px;
+}
+.yellow {
+    background-color: yellow;
+	width: 100px;
+	height: 100px
+}
